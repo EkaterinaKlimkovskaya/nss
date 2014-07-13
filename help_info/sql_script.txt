@@ -1,0 +1,4 @@
+CREATE TABLE numbers (
+  id BIGINT(20) NOT NULL,
+  number BIGINT(20) NOT NULL,
+  PRIMARY KEY (id));
